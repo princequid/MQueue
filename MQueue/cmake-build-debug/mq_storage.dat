@@ -1,0 +1,5 @@
+1|orders|New order: Product A, Quantity: 5|1754234012|0
+2|orders|New order: Product B, Quantity: 2|1754234012|0
+3|notifications|Welcome email for user123|1754234012|0
+4|analytics|User clicked on Product A|1754234012|0
+5|orders|New order: Product C, Quantity: 1|1754234014|0

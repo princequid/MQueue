@@ -1,0 +1,5 @@
+C:/Users/princ/CLionProjects/MQueue/cmake-build-debug/CMakeFiles/broker.dir
+C:/Users/princ/CLionProjects/MQueue/cmake-build-debug/CMakeFiles/publisher.dir
+C:/Users/princ/CLionProjects/MQueue/cmake-build-debug/CMakeFiles/subscriber.dir
+C:/Users/princ/CLionProjects/MQueue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/princ/CLionProjects/MQueue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
